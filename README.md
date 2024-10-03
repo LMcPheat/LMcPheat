@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m currently working on integrating logics and LLMs.
+💬 Ask me about theoretical computer science, like nonclassical logics and their semantics, category theory and computational linguistics.
 <!--
 **LMcPheat/LMcPheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
